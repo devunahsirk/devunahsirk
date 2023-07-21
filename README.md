@@ -1,8 +1,5 @@
+![Frame 1](https://github.com/devunahsirk/devunahsirk/assets/100826392/ea3968b2-a205-40a8-90af-1d8e2dff357f)
 
-<P ALIGN ="CENTER" ><B>
-	Hello World
-
-</P>
 
 ![coding](https://github.com/devunahsirk/devunahsirk/assets/100826392/a78260ff-938b-4630-98c5-7c5c8733804f)
 
