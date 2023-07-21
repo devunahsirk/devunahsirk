@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 <img align="right" width="350" src="https://github.com/devunahsirk/devunahsirk/assets/100826392/088c70c3-ff8a-45be-b4bb-5235f5e5a294">
-🔭 I’m currently working on Web Dev, ML and Robotics<br>👯 I’m looking to collaborate on ML and Web dev based projects<br>🤝 I’m looking for help with Backend & Designing <br>🌱 I’m currently learning Django, Django REST and NLP<br>💬 Ask me about Web Dev, Cloud Computing <br>⚡ Fun fact: Night Owl
+🔭 I’m currently working on Web Dev, ML and Robotics<br>👯 I’m looking to collaborate on ML and Web dev based projects<br>🤝 I’m looking for help with Backend & Designing <br>🌱 I’m currently learning Django, Django REST and NLP<br>💬 Ask me about Web Dev, Cloud Computing <br>⚡ Fun fact: It is impossible for most people to lick their own elbow.
 
 
 
